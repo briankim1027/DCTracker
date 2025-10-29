@@ -1,0 +1,12 @@
+# Dependencies / caches
+__pycache__/
+*.pyc
+
+# Local environment
+.env
+*.log
+
+# Google auth artifacts
+client_secrets.json
+token.json
+credentials*.json
